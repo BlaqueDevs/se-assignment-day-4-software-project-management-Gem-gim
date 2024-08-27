@@ -28,7 +28,13 @@ The core issues your software aims to address are the pain points your audience 
 Clearly defining the problem is like diagnosing an illness before prescribing treatment—it ensures that the solution you develop actually addresses the root cause. When you understand the problem inside and out, you can create a solution that directly targets it, leading to better results and a product that truly meets the users' needs.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+To describe software solution without getting technical, focus on what it does for the user and how it improves their life or work. For example, instead of saying, “Our software uses AI to optimize workflows,” one might say, “Our software helps you get more done in less time by streamlining your daily tasks.” This approach highlights the benefits and keeps the explanation accessible to everyone.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features or functionalities that make your software stand out are those that solve the problem in a unique or particularly effective way. These could be things like an intuitive user interface, a feature that saves users a significant amount of time, or a tool that automates a complicated process. Whatever they are, they should be the aspects of your software that your users can’t find elsewhere.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market size and growth potential data can include statistics on how many people or businesses need the software, how much they’re currently spending on similar solutions, and how fast this market is expected to grow. This data helps to understand the opportunity for software and can guide decisions on how to market and develop the product.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Understanding market trends is like knowing the seasons inorder to dress appropriately—it helps you steer your software in the right direction. By staying aware of what users are looking for, what competitors are doing, and where the industry is heading, you can position your software to meet current demands and anticipate future needs. This can influence everything from feature development to marketing strategies, ensuring your software stays relevant and competitive.
